@@ -191,6 +191,12 @@ https://github.com/ansible/ansible
 
 **「git-flow は死んだ」**
 
+@aishimau
+---------
+
+リア充ってなに？それは監禁(仮)
+
+
 定期プレゼン
 ============
 
